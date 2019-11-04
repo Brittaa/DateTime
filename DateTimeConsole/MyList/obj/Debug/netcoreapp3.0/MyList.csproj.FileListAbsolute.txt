@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/MyList/bin/Debug/netcoreapp3.0/MyList
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/MyList/bin/Debug/netcoreapp3.0/MyList.deps.json
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/MyList/bin/Debug/netcoreapp3.0/MyList.runtimeconfig.json
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/MyList/bin/Debug/netcoreapp3.0/MyList.runtimeconfig.dev.json
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/MyList/bin/Debug/netcoreapp3.0/MyList.dll
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/MyList/bin/Debug/netcoreapp3.0/MyList.pdb
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/MyList/obj/Debug/netcoreapp3.0/MyList.csprojAssemblyReference.cache
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/MyList/obj/Debug/netcoreapp3.0/MyList.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/MyList/obj/Debug/netcoreapp3.0/MyList.AssemblyInfo.cs
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/MyList/obj/Debug/netcoreapp3.0/MyList.dll
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/MyList/obj/Debug/netcoreapp3.0/MyList.pdb

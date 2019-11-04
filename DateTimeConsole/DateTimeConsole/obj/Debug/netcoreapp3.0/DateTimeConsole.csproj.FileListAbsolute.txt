@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/DateTimeConsole/bin/Debug/netcoreapp3.0/DateTimeConsole
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/DateTimeConsole/bin/Debug/netcoreapp3.0/DateTimeConsole.deps.json
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/DateTimeConsole/bin/Debug/netcoreapp3.0/DateTimeConsole.runtimeconfig.json
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/DateTimeConsole/bin/Debug/netcoreapp3.0/DateTimeConsole.runtimeconfig.dev.json
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/DateTimeConsole/bin/Debug/netcoreapp3.0/DateTimeConsole.dll
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/DateTimeConsole/bin/Debug/netcoreapp3.0/DateTimeConsole.pdb
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/DateTimeConsole/obj/Debug/netcoreapp3.0/DateTimeConsole.csprojAssemblyReference.cache
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/DateTimeConsole/obj/Debug/netcoreapp3.0/DateTimeConsole.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/DateTimeConsole/obj/Debug/netcoreapp3.0/DateTimeConsole.AssemblyInfo.cs
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/DateTimeConsole/obj/Debug/netcoreapp3.0/DateTimeConsole.dll
+/Users/Britta/Desktop/DateTimeApp/DateTimeConsole/DateTimeConsole/obj/Debug/netcoreapp3.0/DateTimeConsole.pdb
